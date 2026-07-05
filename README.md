@@ -22,8 +22,8 @@ LogisticRegression
 
 ## Data
 
-i used "Heart Disease Statlog" dataset from kaggle 
-Dataset Link: https://www.kaggle.com/datasets/ritwikb3/heart-disease-statlog
+- i used "Heart Disease Statlog" dataset from kaggle 
+- Dataset Link: https://www.kaggle.com/datasets/ritwikb3/heart-disease-statlog
 
 ## Accuracy
 
@@ -31,11 +31,11 @@ Test Accuracy: 84.7%
 
 ## About Files 
 
-index.ipynb
-predict.py
-best_model.pkl
-sc.pkl
-Heart_disease_statlog.csv
-README.md
-requirements.txt
-.gitignore
+- index.ipynb
+- predict.py
+- best_model.pkl
+- sc.pkl
+- Heart_disease_statlog.csv
+- README.md
+- requirements.txt
+- .gitignore
