@@ -20,6 +20,11 @@ Machine Learning project using LogisticRegression for Heart Disease Prediction w
  
 LogisticRegression
 
+## Data
+
+i used "Heart Disease Statlog" dataset from kaggle 
+Dataset Link: https://www.kaggle.com/datasets/ritwikb3/heart-disease-statlog
+
 ## Accuracy
 
 Test Accuracy: 84.7% 
