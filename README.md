@@ -2,7 +2,7 @@
 
 ## Portfolio Project
 
-Machine Learning project using LogisticRegression for LogisticRegression prediction with data preprocessing, feature scaling, and model evaluation.
+Machine Learning project using LogisticRegression for Prediction Heart Disease prediction with data preprocessing, feature scaling, and model evaluation.
 
 ## Features
 
