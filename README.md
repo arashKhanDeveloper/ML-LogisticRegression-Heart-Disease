@@ -39,3 +39,4 @@ Test Accuracy: 84.7%
 - README.md
 - requirements.txt
 - .gitignore
+- LICENSE
