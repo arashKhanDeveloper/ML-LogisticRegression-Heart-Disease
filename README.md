@@ -22,7 +22,8 @@ LogisticRegression
 
 ## Data
 
-- i used "Heart Disease Statlog" dataset from kaggle 
+- Dataset Source : Kaggle 
+- Dataset License : CC0: Public Domain
 - Dataset Link: https://www.kaggle.com/datasets/ritwikb3/heart-disease-statlog
 
 ## Accuracy
